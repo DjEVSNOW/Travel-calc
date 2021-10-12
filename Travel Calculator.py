@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #Узнаем у пользователя данные.
 price_of_flight = int(input('Введите стоимость перелета\n'))
 price_of_food = int(input('Введите среднюю стоимость ежедневного питания\n'))
